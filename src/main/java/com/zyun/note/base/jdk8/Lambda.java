@@ -1,6 +1,5 @@
 package com.zyun.note.base.jdk8;
 
-
 import com.zyun.note.bean.User;
 
 import java.util.*;
