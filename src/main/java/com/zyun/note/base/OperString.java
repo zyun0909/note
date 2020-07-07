@@ -16,16 +16,16 @@ public class OperString {
         String str = "1";
 
         OperString test = new OperString();
-        System.out.println(str);
+        System.out.println(str); //1
 
         test.oper(str);
-        System.out.println(str);
+        System.out.println(str); //1
 
         str = test.oper2(str);
-        System.out.println(str);
+        System.out.println(str); //3
 
         str = "4";
-        System.out.println(str);
+        System.out.println(str); //4
 
     }
 }

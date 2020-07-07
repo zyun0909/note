@@ -17,6 +17,6 @@ public class OperList {
 
         OperList.oper(list);
 
-        System.out.println(list.get(0));
+        System.out.println(list.get(0)); //"b"
     }
 }

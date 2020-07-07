@@ -1,4 +1,4 @@
-package com.zyun.note.base.lambda;
+package com.zyun.note.base.jdk8;
 
 
 import com.zyun.note.bean.User;
