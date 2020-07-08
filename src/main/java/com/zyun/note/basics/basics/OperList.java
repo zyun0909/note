@@ -1,4 +1,4 @@
-package com.zyun.note.basics.collection;
+package com.zyun.note.basics.basics;
 
 import java.util.ArrayList;
 import java.util.List;

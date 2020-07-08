@@ -1,4 +1,4 @@
-package com.zyun.note.basics.basicDataType;
+package com.zyun.note.basics.basics;
 
 public class EqualsInteger {
 

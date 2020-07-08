@@ -1,4 +1,4 @@
-package com.zyun.note.basics.basicDataType;
+package com.zyun.note.basics.basics;
 
 //String在当前方法体内是否可以改变值，在非当前方法体内是否可以改变值
 public class OperString {

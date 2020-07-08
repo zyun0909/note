@@ -1,4 +1,4 @@
-package com.zyun.note.basics.designpattern;
+package com.zyun.note.basics.designpattern.factory;
 
 public interface IFactoryer {
 
