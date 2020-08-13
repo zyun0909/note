@@ -32,6 +32,14 @@ public class EqualsInteger {
         Integer j5 = 128;
         System.out.println(i5 == j5); //false
 
+        //5、int变量比较时，比较的就是值是否相等
+        int i6 = 128;
+        int j6 = 128;
+        System.out.println(i6 == j6); //true
+        int i7 = 500;
+        int j7 = 500;
+        System.out.println(i7 == j7); //false
+
     }
 
    /*
